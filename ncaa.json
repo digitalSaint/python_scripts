@@ -1,0 +1,452 @@
+{
+  "ncaa": [
+    { 
+      "team": "Kentucky",
+      "games": 34,
+      "record": [ 34, 0 ],
+      "pf": 2547,
+      "pa": 1835
+    },
+    { 
+      "team": "Hampton",
+      "games": 34,
+      "record": [ 17, 17 ],
+      "pf": 2290,
+      "pa": 2308
+    },
+    { 
+      "team": "Cincinnati",
+      "games": 32,
+      "record": [ 22, 10 ],
+      "pf": 1996,
+      "pa": 1769
+    },
+    { 
+      "team": "Purdue",
+      "games": 33,
+      "record": [ 21, 12 ],
+      "pf": 2310,
+      "pa": 2129
+    },
+    { 
+      "team": "West Virginia",
+      "games": 32,
+      "record": [ 23, 9 ],
+      "pf": 2366,
+      "pa": 2139
+    },
+    { 
+      "team": "Buffalo",
+      "games": 32,
+      "record": [ 23, 9 ],
+      "pf": 2400,
+      "pa": 2185
+    },
+    { 
+      "team": "Maryland",
+      "games": 33,
+      "record": [ 27, 6 ],
+      "pf": 2293,
+      "pa": 2087
+    },
+    { 
+      "team": "Valparaiso",
+      "games": 33,
+      "record": [ 28, 5 ],
+      "pf": 2304,
+      "pa": 1956
+    },
+    { 
+      "team": "Butler",
+      "games": 32,
+      "record": [ 22, 10 ],
+      "pf": 2226,
+      "pa": 1958
+    },
+    { 
+      "team": "Texas",
+      "games": 33,
+      "record": [ 20, 13 ],
+      "pf": 2242,
+      "pa": 1993
+    },
+    { 
+      "team": "Notre Dame",
+      "games": 34,
+      "record": [ 29, 5 ],
+      "pf": 2680,
+      "pa": 2232
+    },
+    { 
+      "team": "Northeastern",
+      "games": 34,
+      "record": [ 23, 11 ],
+      "pf": 2332,
+      "pa": 2210
+    },
+    { 
+      "team": "Wichita St.",
+      "games": 32,
+      "record": [ 28, 4 ],
+      "pf": 2231,
+      "pa": 1786
+    },
+    {
+      "team": "Indiana",
+      "games": 33,
+      "record": [ 20, 13 ],
+      "pf": 2557,
+      "pa": 2357
+    },
+    {
+      "team": "Kansas",
+      "games": 34,
+      "record": [ 26, 8 ],
+      "pf": 2421,
+      "pa": 2199
+    },
+    { 
+      "team": "New Mexico St.",
+      "games": 33,
+      "record": [ 23, 10 ],
+      "pf": 2260,
+      "pa": 1958
+    },
+    { 
+      "team": "Wisconsin",
+      "games": 34,
+      "record": [ 31, 3 ],
+      "pf": 2444,
+      "pa": 1908
+    },
+    {
+      "team": "Coastal Carolina",
+      "games": 33,
+      "record": [ 24, 9 ],
+      "pf": 2366,
+      "pa": 2035
+    },
+    { 
+      "team": "Oregon",
+      "games": 34,
+      "record": [ 25, 9 ],
+      "pf": 2569,
+      "pa": 2405
+    },
+    { 
+      "team": "Oklahoma St.",
+      "games": 31,
+      "record": [ 18, 13 ],
+      "pf": 2087,
+      "pa": 1932
+    },
+    { 
+      "team": "Arkansas",
+      "games": 34,
+      "record": [ 26, 8 ],
+      "pf": 2653,
+      "pa": 2385
+    },
+    { 
+      "team": "Wofford",
+      "games": 34,
+      "record": [ 28, 6 ],
+      "pf": 2278,
+      "pa": 2033
+    },
+    { 
+      "team": "North Carolina",
+      "games": 35,
+      "record": [ 24, 11 ],
+      "pf": 2727,
+      "pa": 2394
+    },
+    { 
+      "team": "Harvard",
+      "games": 29,
+      "record": [ 22, 7 ],
+      "pf": 1861,
+      "pa": 1660
+    },
+    { 
+      "team": "Xavier",
+      "games": 34,
+      "record": [ 21, 13 ],
+      "pf": 2501,
+      "pa": 2300
+    },
+    { 
+      "team": "Mississippi",
+      "games": 33,
+      "record": [ 21, 12 ],
+      "pf": 2418,
+      "pa": 2250
+    },
+    { 
+      "team": "Baylor",
+      "games": 33,
+      "record": [ 24, 9 ],
+      "pf": 2293,
+      "pa": 1991
+    },
+    { 
+      "team": "Georgia St.",
+      "games": 33,
+      "record": [ 24, 9 ],
+      "pf": 2375,
+      "pa": 2053
+    },
+    { 
+      "team": "VCU",
+      "games": 35,
+      "record": [ 26, 9 ],
+      "pf": 2537,
+      "pa": 2293
+    },
+    { 
+      "team": "Ohio St.",
+      "games": 33,
+      "record": [ 23, 10 ],
+      "pf": 2502,
+      "pa": 2059
+    },
+    { 
+      "team": "Arizona",
+      "games": 34,
+      "record": [ 31, 3 ],
+      "pf": 2599,
+      "pa": 1993
+    },
+    { 
+      "team": "Texas Southern",
+      "games": 34,
+      "record": [ 22, 12 ],
+      "pf": 2318,
+      "pa": 2293
+    },
+    { 
+      "team": "Villanova",
+      "games": 34,
+      "record": [ 32, 2 ],
+      "pf": 2593,
+      "pa": 2070
+    },
+    { 
+      "team": "Lafayette",
+      "games": 32,
+      "record": [ 20, 12 ],
+      "pf": 2374,
+      "pa": 2316
+    },
+    { 
+      "team": "North Carolina St.",
+      "games": 33,
+      "record": [ 20, 13 ],
+      "pf": 2323,
+      "pa": 2159
+    },
+    { 
+      "team": "LSU",
+      "games": 32,
+      "record": [ 22, 10 ],
+      "pf": 2358,
+      "pa": 2167
+    },
+    { 
+      "team": "Northern Iowa",
+      "games": 33,
+      "record": [ 30, 3 ],
+      "pf": 2157,
+      "pa": 1792
+    },
+    { 
+      "team": "Wyoming",
+      "games": 34,
+      "record": [ 25, 9 ],
+      "pf": 2097,
+      "pa": 1903
+    },
+    { 
+      "team": "Louisville",
+      "games": 32,
+      "record": [ 24, 8 ],
+      "pf": 2215,
+      "pa": 1905
+    },
+    { 
+      "team": "UC Irivine",
+      "games": 33,
+      "record": [ 21, 12 ],
+      "pf": 2240,
+      "pa": 2056
+    },
+    { 
+      "team": "Providence",
+      "games": 33,
+      "record": [ 22, 11 ],
+      "pf": 2317,
+      "pa": 2161
+    },
+    { 
+      "team": "Boise St./Dayton",
+      "games": 0,
+      "record": [ 0, 0 ],
+      "pf": 0,
+      "pa": 0
+    },
+    { 
+      "team": "Oklahoma",
+      "games": 32,
+      "record": [ 22, 10 ],
+      "pf": 2302,
+      "pa": 2008
+    },
+    { 
+      "team": "Albany",
+      "games": 32,
+      "record": [ 24, 8 ],
+      "pf": 2096,
+      "pa": 1927
+    },
+    { 
+      "team": "Michigan St.",
+      "games": 34,
+      "record": [ 23, 11 ],
+      "pf": 2444,
+      "pa": 2156
+    },
+    { 
+      "team": "Georgia",
+      "games": 32,
+      "record": [ 21, 11 ],
+      "pf": 2187,
+      "pa": 2054
+    },
+    { 
+      "team": "Virginia",
+      "games": 32,
+      "record": [ 29, 3 ],
+      "pf": 2091,
+      "pa": 1624
+    },
+    { 
+      "team": "Belmont",
+      "games": 32,
+      "record": [ 22, 10 ],
+      "pf": 2383,
+      "pa": 2251
+    },
+    { 
+      "team": "Duke",
+      "games": 33,
+      "record": [ 29, 4 ],
+      "pf": 2660,
+      "pa": 2164
+    },
+    { 
+      "team": "Northern Florida/Robert Morris",
+      "games": 0,
+      "record": [ 0, 0 ],
+      "pf": 0,
+      "pa": 0
+    },
+    { 
+      "team": "San Diego St.",
+      "games": 34,
+      "record": [ 26, 8 ],
+      "pf": 2101,
+      "pa": 1807
+    },
+    { 
+      "team": "St. Johns",
+      "games": 32,
+      "record": [ 21, 11 ],
+      "pf": 2279,
+      "pa": 2164
+    },
+    { 
+      "team": "Utah",
+      "games": 32,
+      "record": [ 24, 8 ],
+      "pf": 2307,
+      "pa": 1822
+    },
+    { 
+      "team": "Stephen F. Austin",
+      "games": 33,
+      "record": [ 29, 4 ],
+      "pf": 2622,
+      "pa": 2131
+    },
+    { 
+      "team": "Georgetown",
+      "games": 31,
+      "record": [ 21, 10 ],
+      "pf": 2192,
+      "pa": 2004
+    },
+    { 
+      "team": "Eastern Washington",
+      "games": 34,
+      "record": [ 26, 8 ],
+      "pf": 2746,
+      "pa": 2504
+    },
+    { 
+      "team": "SMU",
+      "games": 33,
+      "record": [ 27, 6 ],
+      "pf": 2291,
+      "pa": 1972
+    },
+    { 
+      "team": "UCLA",
+      "games": 33,
+      "record": [ 20, 13 ],
+      "pf": 2376,
+      "pa": 2245
+    },
+    { 
+      "team": "Iowa St.",
+      "games": 33,
+      "record": [ 25, 8 ],
+      "pf": 2586,
+      "pa": 2286
+    },
+    { 
+      "team": "UAB",
+      "games": 34,
+      "record": [ 19, 15 ],
+      "pf": 2341,
+      "pa": 2301
+    },
+    { 
+      "team": "Iowa",
+      "games": 32,
+      "record": [ 21, 11 ],
+      "pf": 2221,
+      "pa": 1980
+    },
+    { 
+      "team": "Davidson",
+      "games": 31,
+      "record": [ 24, 7 ],
+      "pf": 2477,
+      "pa": 2138
+    },
+    { 
+      "team": "Gonzaga",
+      "games": 34,
+      "record": [ 32, 2 ],
+      "pf": 2690,
+      "pa": 2071
+    },
+    { 
+      "team": "North Dakota St.",
+      "games": 32,
+      "record": [ 23, 9 ],
+      "pf": 2065,
+      "pa": 1971
+    }
+  ]
+}
